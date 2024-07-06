@@ -61,6 +61,7 @@ The performance of the models is evaluated using the following metrics:
 	- R-squared (R2 Score):
 	• Indicates the proportion of the variance in the dependent variable that is predictable from the independent variables.
 
+
  ## Conclusion
 
 The project predicted medical insurance costs using Machine Learning and deep learning models. Both linear regression and artificial neural network models provide insights into the factors influencing insurance costs, with evaluation metrics indicating the performance of each model.
