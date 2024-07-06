@@ -51,7 +51,8 @@ The dataset used in this project is `insurance.csv`, which contains the followin
 
 ## Evaluation Metrics
 
-The performance of the models is evaluated using the following metrics:
+The performance of the models is evaluated using the following metrics
+
 	- Root Mean Squared Error (RMSE):
 	• Measures the average magnitude of the errors between predicted and actual values.
 	- Mean Squared Error (MSE):
