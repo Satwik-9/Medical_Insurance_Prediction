@@ -52,14 +52,14 @@ The dataset used in this project is `insurance.csv`, which contains the followin
 ## Evaluation Metrics
 
 The performance of the models is evaluated using the following metrics:
-	1.	Root Mean Squared Error (RMSE):
-	•	Measures the average magnitude of the errors between predicted and actual values.
-	2.	Mean Squared Error (MSE):
-	•	Measures the average of the squares of the errors between predicted and actual values.
-	3.	Mean Absolute Error (MAE):
-	•	Measures the average magnitude of the errors between predicted and actual values.
-	4.	R-squared (R2 Score):
-	•	Indicates the proportion of the variance in the dependent variable that is predictable from the independent variables.
+	- Root Mean Squared Error (RMSE):
+	• Measures the average magnitude of the errors between predicted and actual values.
+	- Mean Squared Error (MSE):
+	• Measures the average of the squares of the errors between predicted and actual values.
+	- Mean Absolute Error (MAE):
+	• Measures the average magnitude of the errors between predicted and actual values.
+	- R-squared (R2 Score):
+	• Indicates the proportion of the variance in the dependent variable that is predictable from the independent variables.
 
  ## Conclusion
 
